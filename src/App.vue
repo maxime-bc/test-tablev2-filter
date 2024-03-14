@@ -116,4 +116,29 @@ const fixedColumns = columns.map((column, columnIndex) => {
   display: flex;
   justify-content: space-between;
 }
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
 </style>
